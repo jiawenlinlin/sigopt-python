@@ -1,5 +1,7 @@
 # SigOpt Python API
 
+[![Build Status](https://travis-ci.org/sigopt/sigopt-python.svg?branch=coveralls)](https://travis-ci.org/sigopt/sigopt-python) [![Coverage Status](https://coveralls.io/repos/github/sigopt/sigopt-python/badge.svg?branch=coveralls)](https://coveralls.io/github/sigopt/sigopt-python?branch=coveralls)
+
 This is the [SigOpt](https://sigopt.com) Python API client.
 Use this to natively call SigOpt API endpoints to create experiments and report data.
 
