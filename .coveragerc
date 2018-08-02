@@ -1,4 +1,6 @@
 [report]
-  show_missing = True
-  omit =
-    sigopt/vendored/*
+show_missing = True
+
+[run]
+omit =
+  sigopt/vendored/*
